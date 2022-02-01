@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gussfer
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis in Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Gustavo Ferreira
+- 👀 I’m interested in Data science and Process automation
+- 🌱 I’m currently learning Data Analysis in Python and SQL
 
 <!---
 gussfer/gussfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
