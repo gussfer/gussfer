@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gustavo Ferreira
-- 👀 I’m interested in Data science and Process automation
-- 🌱 I’m currently learning Data Analysis in Python and SQL
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript and its main frameworks: Node.js, React, react-native
 
 <!---
 gussfer/gussfer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
