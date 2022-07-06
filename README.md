@@ -1,10 +1,10 @@
-👋 Hi, I'm Gustavo Ferreira and I'm studying a bachelor's degree in Information Systems and working with Help Desk support
+### 👋 Hi, I'm Gustavo Ferreira and I'm studying a bachelor's degree in Information Systems and working with Help Desk support
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, CSS and HTML
 
 <div align="center">
   <a href="https://github.com/gussfer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gussfer&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gussfer&show_icons=true&theme=onedark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussfer&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
