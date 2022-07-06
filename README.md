@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Gustavo Ferreira and I'm studying a bachelor's degree in Information Systems and working with Help Desk support
+### 👋 Hi, I'm Gustavo Ferreira and i'm studying a bachelor's degree in Information Systems and working with Help Desk support
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, CSS and HTML
 
