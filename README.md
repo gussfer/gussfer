@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Gustavo Ferreira and i'm studying a bachelor's degree in Information Systems and working with Help Desk support
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python, Java, JavaScript, CSS and HTML
+- 🌱 I’m currently learning Java, JavaScript, CSS and HTML
 
 <div align="center">
   <a href="https://github.com/gussfer">
