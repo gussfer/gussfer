@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Gustavo Ferreira and i'm studying a bachelor's degree in Information Systems and working with Service Desk support
 - 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning Python, Java, JavaScript, CSS and HTML
+- 🌱 I’m currently learning Python, Java, JavaScript, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/gussfer">
@@ -9,6 +9,7 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Guss-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Uly-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Guss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guss-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Guss-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
