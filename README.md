@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/gussfer">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gussfer&hide=prs&line_height=26&show_icons=true&theme=onedark&include_all_commits=true&count_private=false&border_radius=10&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussfer&layout=compact&langs_count=7&theme=onedark&border_radius=10&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gussfer&hide=prs&line_height=26&show_icons=true&theme=onedark&include_all_commits=true&count_private=false&border_radius=10&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussfer&layout=compact&langs_count=7&theme=onedark&border_radius=10&hide_border=true"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Guss-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
