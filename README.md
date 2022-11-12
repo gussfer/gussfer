@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Gustavo Ferreira and i'm studying a bachelor's degree in Information Systems and working with Service Desk support
+### 👋 Hi, I'm Gustavo Ferreira and i'm studying a bachelor's degree in Information Systems and working with Data Analytics 
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning Python, Java, JavaScript, HTML and CSS
 
