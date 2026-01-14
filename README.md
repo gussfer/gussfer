@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Gustavo Ferreira and i'm working with Data Analytics 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning Python, SQL, JS, TS.
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Guss-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
